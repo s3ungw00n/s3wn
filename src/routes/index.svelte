@@ -1,8 +1,9 @@
-<script>
-	import { Styles } from 'sveltestrap';
-</script>
-
-<Styles />
+<svelte:head>
+	<link
+		rel="stylesheet"
+		href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+	/>
+</svelte:head>
 <header class="header">
 	<div class="greeting px-4">
 		<div>{"Hello, There. I'm"}</div>
