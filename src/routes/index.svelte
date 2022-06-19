@@ -15,10 +15,12 @@
       <span class="ms-1">I'm</span>
     </div>
     <h1>SeungWoon Lee</h1>
-    <div class="text-info">Fullstack Web Developer</div>
-    <a href="https://blog.s3wn.com" target="_blank">Blog</a>
-    <a href="https://github.com/s3ungw00n" target="_blank">Github</a>
-    <a href="https://twitter.com/s3ungw00n" target="_blank">Twitter</a>
+    <div class="text-secondary">Fullstack Web Developer</div>
+    <div class="mt-2">
+      <a href="https://blog.s3wn.com" target="_blank">Blog</a>
+      <a href="https://github.com/s3ungw00n" target="_blank">Github</a>
+      <a href="https://twitter.com/s3ungw00n" target="_blank">Twitter</a>
+    </div>
   </div>
 </header>
 
